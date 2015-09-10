@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">exercicioListView</string>
+
+    <string name="hello_world">Voo disponiveis!</string>
+    <string name="action_settings">Settings</string>
+    <string name = "lblcidade">Escolha sua origem </string>
+    <string name = "lblcidadedes">Escolha seu destino </string>
+    <string name = "lblconsvoo">Consultar Voo </string>
+    <string name="title_activity_voo">vooActivity</string>
+</resources>
